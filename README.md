@@ -1,7 +1,7 @@
 - 👋 Hi, My name sunil bagde
 - 👀 I’m interested in Coding and Problem solving
 - 🌱 I’m currently learning C and C++ and some managment
-- 💞️ I’m looking to collaborate on Pearl
+- 💞️ I’m looking to collaborate on slack
 
 
 <!---
